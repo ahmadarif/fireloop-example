@@ -1,0 +1,10 @@
+{
+  "generator-fireloop": {
+    "clients": {
+      "fireloop": {
+        "path": "./",
+        "type": "server"
+      }
+    }
+  }
+}
